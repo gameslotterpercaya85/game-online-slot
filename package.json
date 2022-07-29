@@ -1,0 +1,18 @@
+{
+  "name": "game-online-slot",
+  "main": "./lib/game-online-slot",
+  "version": "1.0.0",
+  "description": "Daftar Situs Situs Terbaru Game Online Slot New Member 100",
+  "keywords": ["slot terbaik","slot joker123","cq9 slot online","toto slot","pragmatic play","cq9 slot online","agen toto play"],
+
+  "activationCommands": {
+    "atom-workspace": "game-online-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya85/game-online-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

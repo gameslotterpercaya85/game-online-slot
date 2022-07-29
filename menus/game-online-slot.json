@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle game-online-slot",
+        "command": "game-online-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "game-online-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "game-online-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
